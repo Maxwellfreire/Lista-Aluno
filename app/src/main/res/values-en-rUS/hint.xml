@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_nome">Enter name</string>
+    <string name="hint_telefone">Enter phoone number</string>
+    <string name="hint_email">Enter e-mail</string>
+</resources>

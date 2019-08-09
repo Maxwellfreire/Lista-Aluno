@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lista de aluno</string>
+    <string name="btn_add">Adicionar</string>
+    <string name="hint_nome">Informe nome</string>
+    <string name="hint_telefone">|Informe telefone</string>
+    <string name="hint_email">Informe seu email</string>
+</resources>
